@@ -1,4 +1,4 @@
-# CalculatorPlusPlus
+# Calculator++
 
 This project is an MFC dialog-based C++ calculator where appending numbers and then evaluating them is the key ✨💡.
 
